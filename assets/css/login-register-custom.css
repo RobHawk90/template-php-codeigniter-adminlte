@@ -1,0 +1,7 @@
+.login-page, .register-page {
+  background-image: url("../img/boxed-bg.jpg");
+}
+
+.login-box-body, .register-box-body {
+  border: 1px solid #999;
+}
